@@ -1,3 +1,4 @@
+
 ---
 ## Front matter
 title: "Шаблон отчёта по лабораторной работе"
@@ -65,6 +66,7 @@ header-includes:
   - \usepackage{float} # keep figures where there are in the text
   - \floatplacement{figure}{H} # keep figures where there are in the text
 ---
+
 
 # Цель работы
 
