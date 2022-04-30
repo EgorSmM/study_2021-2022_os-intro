@@ -75,7 +75,7 @@ header-includes:
 1. Скачал последнюю версию hugo с github.(рис. 1)
 
 <figure>![mountains](image/hugorel.png "Пейзаж с горами")
-	<img src="image/instgitflow.png" alt="Установка git-flow">
+	<img src="image/hugorel.png" alt="Установка git-flow">
 	<figcaption>рис. 1. Репозиторий с последней версией hugo</figcaption>
 <figure>
 
