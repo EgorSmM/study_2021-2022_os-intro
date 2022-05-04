@@ -74,22 +74,22 @@ header-includes:
 
 1. Скачал последнюю версию hugo с github.(рис. 1)
 
-<figure>![mountains](image/hugorel.png "Пейзаж с горами")
-	<img src="image/instgitflow.png" alt="Установка git-flow">
+<figure>![hugorel](image/hugorel.png "рис. 1. Репозиторий с последней версией hugo")
+	<img src="image/hugorel.png" alt="Установка git-flow">
 	<figcaption>рис. 1. Репозиторий с последней версией hugo</figcaption>
 <figure>
 
 2. Создал на github репозиторий с именем blog по шаблону указанному в задании.(рис. 2)
 
-<figure>![mountains](image/crrep.png "Пейзаж с горами")
-	<img src="image/instgitflow.png" alt="Установка git-flow">
+<figure>![crrep](image/crrep.png "рис. 2. Страница создания репозитория на github")
+	<img src="image/crrep.png" alt="Установка git-flow">
 	<figcaption>рис. 2. Страница создания репозитория на github</figcaption>
 <figure>
 
 3. Клонировал репозиторий на свой компьютер.(рис. 3)
 
-<figure>![mountains](image/clonerep.png "Пейзаж с горами")
-	<img src="image/instgitflow.png" alt="Установка git-flow">
+<figure>![clonerep](image/clonerep.png "рис. 3. Клонирование репозитория с Github")
+	<img src="image/clonerep.png" alt="Установка git-flow">
 	<figcaption>рис. 3. Клонирование репозитория с Github</figcaption>
 <figure>
 
